@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Amigo Secreto</string>
+    <string name="friend_name">Nome</string>
+    <string name="friend_email">Email</string>
+    <string name="friend_phone">Telefone</string>
+    <string name="friend_save_btn">Salvar</string>
+    <string name="friend_cancel_btn">Cancelar</string>
+    <string name="name_empty">Nome nao pode estar vazio</string>
+    <string name="email_empty">Email nao pode estar vazio</string>
+    <string name="phone_empty">Telefone nao pode estar vazio</string>
+    <string name="phone_invalid">Telefone invalido</string>
+    <string name="email_invalid">Email Invalido</string>
+    <string name="add_friend_btn">Adicionar Amigo</string>
+    <string name="shared_secret_friend">Compartilhar amigo secreto</string>
+    <string name="delete_friend">Excluir Amigo</string>
+    <string name="keeper_label">Sortear Amigo</string>
+    <string name="add_friend_label">Adicionar Amigo</string>
+</resources>
